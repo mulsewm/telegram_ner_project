@@ -1,0 +1,21 @@
+# Telegram client library
+telethon==1.29.0
+
+# Environment variable management
+python-dotenv==1.0.0
+
+# Data manipulation and analysis
+pandas==2.0.3
+
+# Machine learning and deep learning
+torch==2.0.1
+transformers==4.32.0
+
+# Model evaluation and metrics
+seqeval==1.2.2
+
+# Visualization
+matplotlib==3.8.0
+
+# Optional: Jupyter Notebook for interactive work
+jupyter==1.0.0
